@@ -99,7 +99,7 @@ const EventDetail = () => {
                   transition={{ type: "spring", stiffness: 300 }}
                 >
                   <img 
-                    src={require('../assets/images/haggia.jpeg')} 
+                    src={require('../assets/images/haggia2.jpeg')} 
                     alt="Hagia Sheena Fadilla" 
                     className="w-full h-full object-cover rounded-full"
                   />
